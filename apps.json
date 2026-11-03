@@ -131,19 +131,6 @@
       "copyright": "Все права на данное приложение принадлежат Holotech Studios. Официальный сайт: https://animaze.us/"
     },
     {
-      "name": "DownloadwinDOS",
-      "text": "WinDOS 4.0 BETA",
-      "developer": "Airs7770",
-      "description": "Консольная утилита WinDOS.",
-      "category": "Утилиты",
-      "iconUrl": "",
-      "location": { "x": 213, "y": 200 },
-      "size": { "width": 200, "height": 40 },
-      "downloadUrl": "https://github.com/air7770/WinDOS/releases/download/BETA_4/WinDOS.4.0.BETA.zip",
-      "filename": "WinDOS.4.0.BETA.zip",
-      "copyright": "Все права принадлежат Airs7770, все версии разработаны им. Использование проекта для встраивания вредоносных программ строго запрещено. Официальный сайт: https://github.com/air7770/WinDOS"
-    },
-    {
       "name": "Downloadpython3150a2amd",
       "text": "python-3.15.0a2",
       "developer": "Python Software Foundation",
@@ -246,19 +233,6 @@
       "downloadUrl": "https://crystalidea.com/downloads/uninstalltool_setup.exe",
       "filename": "uninstalltool_installer.exe",
       "copyright": "Все права на данное приложение принадлежат Crystal IDEA. Официальный сайт: https://crystalidea.com/"
-    },
-    {
-      "name": "Downloadwindos",
-      "text": "WinDOS Beta Console",
-      "developer": "Airs7770",
-      "description": "Консольная утилита WinDOS.",
-      "category": "Утилиты",
-      "iconUrl": "",
-      "location": { "x": 419, "y": 300 },
-      "size": { "width": 200, "height": 40 },
-      "downloadUrl": "https://github.com/air7770/WinDOS/releases/download/BETA_CONSOLE/windos.exe",
-      "filename": "windosbetaconsole_installer.exe",
-      "copyright": "Все права принадлежат Airs7770, все версии разработаны им. Использование проекта для встраивания вредоносных программ строго запрещено. Официальный сайт: https://github.com/air7770/WinDOS"
     },
     {
       "name": "Downloadventoy",
