@@ -1,5 +1,4 @@
-div align="center">
-  <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/icon.ico" width="120" alt="Yellow Store Logo">
+ <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/icon.ico" width="120" alt="Yellow Store Logo">
   
   # Yellow Store
   
