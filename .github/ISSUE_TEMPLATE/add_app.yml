@@ -1,0 +1,81 @@
+name: Предложить приложение
+description: Заполните форму, чтобы предложить новую программу для Yellow Store
+title: "[APP] Название программы"
+labels: ["enhancement", "new app"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что хотите добавить программу в Yellow Store! 
+        Пожалуйста, заполните все поля ниже. Мы проверим ссылки на безопасность и добавим приложение в каталог.
+  
+  - type: input
+    id: app_name
+    attributes:
+      label: Название приложения
+      description: Как называется программа? (Например, Telegram Desktop, OBS Studio)
+      placeholder: Например, Steam
+    validations:
+      required: true
+
+  - type: input
+    id: developer
+    attributes:
+      label: Разработчик
+      description: Кто автор программы?
+      placeholder: Например, Valve Corporation
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Краткое описание
+      description: Опишите в 1-2 предложениях, что делает эта программа.
+      placeholder: Крупнейшая платформа для покупки и запуска компьютерных игр.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Категория
+      description: Выберите подходящую категорию
+      options:
+        - Браузеры
+        - Игры
+        - Мессенджеры
+        - Мультимедиа
+        - Разработка
+        - Системные
+        - Утилиты
+        - Другое
+    validations:
+      required: true
+
+  - type: input
+    id: download_url
+    attributes:
+      label: Ссылка на скачивание (Прямая)
+      description: Ссылка на официальный сайт разработчика или прямой установщик (exe/msi)
+      placeholder: https://example.com/download/setup.exe
+    validations:
+      required: true
+
+  - type: input
+    id: icon_url
+    attributes:
+      label: Ссылка на иконку
+      description: Прямая ссылка на логотип программы (PNG или SVG)
+      placeholder: https://example.com/logo.png
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: safety_check
+    attributes:
+      label: Подтверждение
+      description: Пожалуйста, подтвердите, что ссылка безопасна
+      options:
+        - label: Я подтверждаю, что ссылка ведет на официальный сайт разработчика, и внутри нет вирусов или рекламы.
+          required: true
