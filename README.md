@@ -11,7 +11,7 @@
 
   <br>
   
-  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;·&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new) &nbsp;·&nbsp; <a href="https://t.me/yellow761"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="18" height="18" alt="Telegram"> **Telegram**</a>
+  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;·&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new) &nbsp;·&nbsp; <a href="https://t.me/yellow761"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" height="16" alt="Telegram"> **Канал разработчика**</a>
 </div>
 
 ---
