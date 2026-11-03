@@ -8,10 +8,11 @@
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/yellow761/Yellow-Store?style=for-the-badge&color=FFD700)](https://github.com/yellow761/Yellow-Store/releases)
   [![GitHub all releases](https://img.shields.io/github/downloads/yellow761/Yellow-Store/total?style=for-the-badge&color=FFD700)](https://github.com/yellow761/Yellow-Store/releases)
   ![GitHub](https://img.shields.io/github/license/yellow761/Yellow-Store?style=for-the-badge&color=FFD700)
+  [![Telegram](https://img.shields.io/badge/Telegram-Канал_разработчика-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yellow761)
 
   <br>
   
-  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;·&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new) &nbsp;·&nbsp; <a href="https://t.me/yellow761"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" height="16" alt="Telegram"> **Канал разработчика**</a>
+  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;&nbsp;·&nbsp;&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new)
 </div>
 
 ---
