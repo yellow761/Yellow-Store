@@ -1,0 +1,54 @@
+name: 🐞 Сообщить об ошибке
+description: Что-то сломалось, вылетает или работает неправильно?
+title: "[BUG] Краткое описание проблемы"
+labels: ["Баг"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что сообщаете об ошибке! 
+        Пожалуйста, опишите проблему как можно подробнее. Это поможет исправить её быстрее.
+
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: Описание ошибки
+      description: Что именно пошло не так? Опишите шаги, чтобы повторить ошибку.
+      placeholder: "Например: Я нажал на кнопку 'Установить' для программы X, но прогресс-бар завис на 0% и ничего не происходит."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Ожидаемое поведение
+      description: Что должно было произойти?
+      placeholder: "Например: Программа должна была начать скачиваться и показывать скорость загрузки."
+    validations:
+      required: true
+
+  - type: input
+    id: app_name
+    attributes:
+      label: В какой программе ошибка?
+      description: Если проблема связана с конкретной программой из каталога, напишите её название.
+      placeholder: "Например: Google Chrome"
+    validations:
+      required: false
+
+  - type: input
+    id: os_version
+    attributes:
+      label: Версия Windows
+      description: На какой операционной системе вы это запускали?
+      placeholder: "Например: Windows 11 23H2, Windows 10 22H2"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты или видео
+      description: Если возможно, прикрепите сюда скриншоты. Вы можете просто перетащить картинку в это поле.
+    validations:
+      required: false
