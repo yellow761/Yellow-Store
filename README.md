@@ -12,7 +12,7 @@
 
   <br>
   
-  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;&nbsp;·&nbsp;&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new)
+  [**Скачать**](https://github.com/yellow761/Yellow-Store/releases/latest) &nbsp;&nbsp;·&nbsp;&nbsp; [**Предложить приложение**](https://github.com/yellow761/Yellow-Store/issues/new?template=add_app.yml) &nbsp;&nbsp;·&nbsp;&nbsp; [**Сообщить о баге**](https://github.com/yellow761/Yellow-Store/issues/new?template=bug_report.yml)
 </div>
 
 ---
