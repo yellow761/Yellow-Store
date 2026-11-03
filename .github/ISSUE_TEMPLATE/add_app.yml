@@ -53,12 +53,12 @@ body:
     validations:
       required: true
 
-  # Поле для своей категории (появляется всегда, но заполнять не обязательно)
+  # Единственное поле без звездочки (required: false)
   - type: input
     id: custom_category
     attributes:
       label: Своя категория (если выбрали "Другое")
-      description: Если в списке выше нет нужной категории, напишите её здесь. Если выбрали готовую — оставьте это поле пустым.
+      description: Если в списке выше нет нужной категории, напишите её здесь.
       placeholder: Например, "Аудио", "Дизайн", "3D-моделирование"
     validations:
       required: false
@@ -79,7 +79,7 @@ body:
       description: Прямая ссылка на логотип программы (PNG или SVG)
       placeholder: https://example.com/logo.png
     validations:
-      required: false
+      required: true
 
   - type: checkboxes
     id: safety_check
