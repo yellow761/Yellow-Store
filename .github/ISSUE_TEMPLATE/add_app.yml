@@ -1,7 +1,7 @@
 name: Предложить приложение
 description: Заполните форму, чтобы предложить новую программу для Yellow Store
 title: "[APP] Название программы"
-labels: ["enhancement", "new app"]
+labels: ["Новое приложение"]
 body:
   - type: markdown
     attributes:
