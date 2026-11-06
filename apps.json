@@ -484,8 +484,8 @@
       "developer": "ByteDance",
       "description": "Популярный и простой в освоении видеоредактор с большим количеством эффектов, переходов и умных функций на базе ИИ.",
       "category": "Мультимедиа",
-      "iconUrl": "https://vlabstatic.com",
-      "downloadUrl": "https://capcut.com",
+      "iconUrl": "https://en.wikipedia.org/wiki/File:Capcut-logo.svg",
+      "downloadUrl": "https://www.capcut.com/download-guidance?__download_from__=download_pc2&__position__=top",
       "filename": "capcut_installer.exe",
       "copyright": "Все права принадлежат ByteDance. Официальный сайт: https://capcut.com"
     },
@@ -495,8 +495,8 @@
       "developer": "Figma, Inc.",
       "description": "Профессиональный инструмент для UI/UX-дизайнеров и проектирования интерфейсов с возможностью совместной работы в реальном времени.",
       "category": "Графика",
-      "iconUrl": "https://wikimedia.org",
-      "downloadUrl": "https://figma.com",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/120px-Figma-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": https://www.figma.com/download/desktop/win",
       "filename": "Figma-setup.exe",
       "copyright": "Все права принадлежат Figma, Inc. Официальный сайт: https://figma.com"
     },
@@ -506,19 +506,19 @@
       "developer": "Dominik Reichl",
       "description": "Классический, легкий и бесплатный менеджер паролей с открытым исходным кодом, хранящий базу данных исключительно локально в зашифрованном виде.",
       "category": "Безопасность",
-      "iconUrl": "https://wikimedia.org",
-      "downloadUrl": "https://sourceforge.net",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/KeePass_Logo_%282016%29.svg/250px-KeePass_Logo_%282016%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://sourceforge.net/projects/keepass/files/latest/download",
       "filename": "KeePass_setup.exe",
       "copyright": "Все права принадлежат Dominik Reichl. Официальный сайт: https://keepass.info"
     },
     {
       "name": "DownloadPDF24",
-      "text": "PDF24 Creator",
+      "text": "PDF24 Creator 11.33.0",
       "developer": "geek Software GmbH",
       "description": "Бесплатный и всеобъемлющий набор инструментов для работы с PDF: сжатие, объединение, конвертация, распознавание текста (OCR) и редактирование страниц.",
       "category": "Офис",
-      "iconUrl": "https://wikimedia.org",
-      "downloadUrl": "https://pdf24.org",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/PDF24_Creator_application_logo_256x256.png/250px-PDF24_Creator_application_logo_256x256.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://download.pdf24.org/pdf24-creator-11.33.0-x64.exe",
       "filename": "pdf24_setup.exe",
       "copyright": "Все права принадлежат geek Software GmbH. Официальный сайт: https://pdf24.org"
     },
@@ -528,8 +528,8 @@
       "developer": "Microsoft",
       "description": "Набор системных утилит от Microsoft для продвинутых пользователей Windows, включающий умное управление окнами FancyZones, пипетку цвета и быстрое переименование файлов.",
       "category": "Утилиты",
-      "iconUrl": "https://wikimedia.org",
-      "downloadUrl": "https://github.com",
+      "iconUrl": https://en.wikipedia.org/wiki/File:2020_PowerToys_Icon.svg",
+      "downloadUrl": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe",
       "filename": "PowerToysSetup.exe",
       "copyright": "Все права принадлежат Microsoft. Официальный сайт: https://microsoft.com"
     },
@@ -539,9 +539,9 @@
       "developer": "Epic Games, Inc.",
       "description": "Цифровая игровая платформа, известная регулярными бесплатными раздачами игр и являющаяся домом для Fortnite и Unreal Engine.",
       "category": "Игры",
-      "iconUrl": "https://wikimedia.org",
-      "downloadUrl": "https://epicgames.com",
-      "filename": "EpicGamesLauncherInstaller.msi",
+      "iconUrl": "https://en.wikipedia.org/wiki/File:Epic_Games_Store_logo_2023_vertical_black.svg",
+      "downloadUrl": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.exe",
+      "filename": "EpicGamesLauncherInstaller.exe",
       "copyright": "Все права принадлежат Epic Games, Inc. Официальный сайт: https://epicgames.com"
     }
   ]
