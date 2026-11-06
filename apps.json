@@ -335,152 +335,150 @@
       "filename": "VSCodeSetup.exe",
       "copyright": "Все права принадлежат Microsoft. Официальный сайт: https://code.visualstudio.com"
     },
-     {
-    "name": "DownloadDiscord",
-    "text": "Discord",
-    "developer": "Discord Inc.",
-    "description": "Универсальный мессенджер для геймеров и сообществ с поддержкой голосовой, видео- и текстовой связи.",
-    "category": "Мессенджеры",
-    "iconUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/250px-Discord_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "downloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
-    "filename": "DiscordSetup.exe",
-    "copyright": "Все права принадлежат Discord Inc. Официальный сайт: https://discord.com"
-  },
-  {
-    "name": "DownloadqBittorrent",
-    "text": "qBittorrent",
-    "developer": "The qBittorrent Project",
-    "description": "Легкий, быстрый и безопасный торрент-клиент с открытым исходным кодом и без встроенной рекламы.",
-    "category": "Утилиты",
-    "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/120px-New_qBittorrent_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "downloadUrl": "https://sourceforge.net/projects/qbittorrent/files/latest/download",
-    "filename": "qbittorrent_setup.exe",
-    "copyright": "Все права принадлежат сообществу разработчиков qBittorrent. Официальный сайт: https://qbittorrent.org"
-  },
-  {
-    "name": "DownloadAIDA64",
-    "text": "AIDA64 Extreme",
-    "developer": "FinalWire Ltd.",
-    "description": "Мощный инструмент для диагностики, тестирования компонентов и детального мониторинга всего железа ПК.",
-    "category": "Системные",
-    "iconUrl": "https://www.aida64.com/sites/default/files/inline-images/xe256.png",
-    "downloadUrl": "https://www.aida64.com/downloads/ZTY3ZTUxYWQ=",
-    "filename": "aida64extreme_setup.exe",
-    "copyright": "Все права принадлежат FinalWire Ltd. Официальный сайт: https://aida64.com"
-  },
-  {
-    "name": "DownloadAIMP",
-    "text": "AIMP",
-    "developer": "Artem Izmaylov",
-    "description": "Легендарный и очень легкий аудиопроигрыватель с поддержкой огромного количества форматов и встроенным эквалайзером.",
-    "category": "Мультимедиа",
-    "iconUrl": "https://aimp.ru/v2/pages/download/icon-aimp.png",
-    "downloadUrl": "https://aimp.ru/?do=download.file&id=3",
-    "filename": "aimp_setup.exe",
-    "copyright": "Все права на данное приложение принадлежат Артему Измайлову. Официальный сайт: https://aimp.ru"
-  },
-  {
-    "name": "DownloadGoogleChrome",
-    "text": "Google Chrome",
-    "developer": "Google LLC",
-    "description": "Популярный, быстрый и безопасный веб-браузер в мире с поддержкой синхронизации и тысяч расширений.",
-    "category": "Браузеры",
-    "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/120px-Google_Chrome_icon_%28February_2022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "downloadUrl": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
-    "filename": "chrome_installer.exe",
-    "copyright": "Все права принадлежат Google LLC. Официальный сайт: https://google.com"
-  },
-  {
-  "name": "DownloadBrave",
-  "text": "Brave",
-  "developer": "Brave Software",
-  "description": "Браузер с открытым исходным кодом, встроенной блокировкой рекламы и трекеров.",
-  "category": "Браузеры",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Brave_lion_icon.svg/120px-Brave_lion_icon.svg.png",
-  "downloadUrl": "https://laptop-updates.brave.com/latest/winx64",
-  "filename": "brave_installer.exe",
-  "copyright": "Все права принадлежат Brave Software. Официальный сайт: https://brave.com"
-  },
-  {
-  "name": "DownloadGIMP",
-  "text": "GIMP",
-  "developer": "The GIMP Team",
-  "description": "Мощный бесплатный растровый графический редактор с открытым исходным кодом.",
-  "category": "Графика",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/120px-The_GIMP_icon_-_gnome.svg.png",
-  "downloadUrl": "https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.0-setup.exe",
-  "filename": "gimp_installer.exe",
-  "copyright": "Все права принадлежат The GIMP Team. Официальный сайт: https://www.gimp.org"
-  },
-  {
-  "name": "DownloadAudacity",
-  "text": "Audacity",
-  "developer": "Audacity Team",
-  "description": "Бесплатный многодорожечный аудиоредактор и рекордер с открытым исходным кодом.",
-  "category": "Мультимедиа",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Audacity_4_Logo.svg/250px-Audacity_4_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-  "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-64bit.exe",
-  "filename": "audacity_installer.exe",
-  "copyright": "Все права принадлежат Audacity Team. Официальный сайт: https://www.audacityteam.org"
-  },
-  {
-  "name": "DownloadTorBrowser",
-  "text": "Tor Browser",
-  "developer": "The Tor Project",
-  "description": "Браузер для анонимного доступа в интернет через сеть Tor.",
-  "category": "Безопасность, Браузеры",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tor_Browser_icon_%28New%29.png/120px-Tor_Browser_icon_%28New%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-  "downloadUrl": "https://dist.torproject.org/torbrowser/16.0/tor-browser-windows-x86_64-portable-16.0.exe",
-  "filename": "torbrowser_installer.exe",
-  "copyright": "Все права принадлежат The Tor Project. Официальный сайт: https://www.torproject.org"
-  },
-  {
-  "name": "DownloadNodeJS",
-  "text": "Node.js LTS",
-  "developer": "OpenJS Foundation",
-  "description": "Среда выполнения JavaScript на стороне сервера с открытым кодом.",
-  "category": "Разработка",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-  "downloadUrl": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-x64.msi",
-  "filename": "nodejs_installer.msi",
-  "copyright": "Все права принадлежат OpenJS Foundation. Официальный сайт: https://nodejs.org"
-  },
-  {
-  "name": "DownloadPuTTY",
-  "text": "PuTTY",
-  "developer": "Simon Tatham",
-  "description": "Классический SSH/Telnet-клиент для Windows с открытым исходным кодом.",
-  "category": "Системные",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/PuTTY_Icon_upstream.svg/120px-PuTTY_Icon_upstream.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-  "downloadUrl": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.85-installer.msi",
-  "filename": "putty_installer.msi",
-  "copyright": "Все права принадлежат Simon Tatham. Официальный сайт: https://www.putty.org"
-  },
-  {
-  "name": "DownloadSpotify",
-  "text": "Spotify",
-  "developer": "Spotify AB",
-  "description": "Популярный стриминговый сервис музыки и подкастов.",
-  "category": "Мультимедиа",
-  "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/120px-Spotify_logo_without_text.svg.png",
-  "downloadUrl": "https://download.scdn.co/SpotifySetup.exe",
-  "filename": "spotify_installer.exe",
-  "copyright": "Все права принадлежат Spotify AB. Официальный сайт: https://www.spotify.com"
-  },
-  {
-  "name": "DownloadFLStudio",
-  "text": "FL Studio",
-  "developer": "Image-Line",
-  "description": "Профессиональная цифровая звуковая рабочая станция (DAW) для создания музыки, битов и аранжировок.",
-  "category": "Мультимедиа",
-  "iconUrl": "https://www.image-line.com/favicon.ico",
-  "downloadUrl": "https://support.image-line.com/redirect/flstudio_win_installer",
-  "filename": "flstudio_installer.exe",
-  "copyright": "Все права принадлежат Image-Line. Официальный сайт: https://www.image-line.com"
-  },
-  {
-  "apps": [
-  {
+    {
+      "name": "DownloadDiscord",
+      "text": "Discord",
+      "developer": "Discord Inc.",
+      "description": "Универсальный мессенджер для геймеров и сообществ с поддержкой голосовой, видео- и текстовой связи.",
+      "category": "Мессенджеры",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/250px-Discord_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+      "filename": "DiscordSetup.exe",
+      "copyright": "Все права принадлежат Discord Inc. Официальный сайт: https://discord.com"
+    },
+    {
+      "name": "DownloadqBittorrent",
+      "text": "qBittorrent",
+      "developer": "The qBittorrent Project",
+      "description": "Легкий, быстрый и безопасный торрент-клиент с открытым исходным кодом и без встроенной рекламы.",
+      "category": "Утилиты",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/120px-New_qBittorrent_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://sourceforge.net/projects/qbittorrent/files/latest/download",
+      "filename": "qbittorrent_setup.exe",
+      "copyright": "Все права принадлежат сообществу разработчиков qBittorrent. Официальный сайт: https://qbittorrent.org"
+    },
+    {
+      "name": "DownloadAIDA64",
+      "text": "AIDA64 Extreme",
+      "developer": "FinalWire Ltd.",
+      "description": "Мощный инструмент для диагностики, тестирования компонентов и детального мониторинга всего железа ПК.",
+      "category": "Системные",
+      "iconUrl": "https://www.aida64.com/sites/default/files/inline-images/xe256.png",
+      "downloadUrl": "https://www.aida64.com/downloads/ZTY3ZTUxYWQ=",
+      "filename": "aida64extreme_setup.exe",
+      "copyright": "Все права принадлежат FinalWire Ltd. Официальный сайт: https://aida64.com"
+    },
+    {
+      "name": "DownloadAIMP",
+      "text": "AIMP",
+      "developer": "Artem Izmaylov",
+      "description": "Легендарный и очень легкий аудиопроигрыватель с поддержкой огромного количества форматов и встроенным эквалайзером.",
+      "category": "Мультимедиа",
+      "iconUrl": "https://aimp.ru/v2/pages/download/icon-aimp.png",
+      "downloadUrl": "https://aimp.ru/?do=download.file&id=3",
+      "filename": "aimp_setup.exe",
+      "copyright": "Все права на данное приложение принадлежат Артему Измайлову. Официальный сайт: https://aimp.ru"
+    },
+    {
+      "name": "DownloadGoogleChrome",
+      "text": "Google Chrome",
+      "developer": "Google LLC",
+      "description": "Популярный, быстрый и безопасный веб-браузер в мире с поддержкой синхронизации и тысяч расширений.",
+      "category": "Браузеры",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/120px-Google_Chrome_icon_%28February_2022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+      "filename": "chrome_installer.exe",
+      "copyright": "Все права принадлежат Google LLC. Официальный сайт: https://google.com"
+    },
+    {
+      "name": "DownloadBrave",
+      "text": "Brave",
+      "developer": "Brave Software",
+      "description": "Браузер с открытым исходным кодом, встроенной блокировкой рекламы и трекеров.",
+      "category": "Браузеры",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Brave_lion_icon.svg/120px-Brave_lion_icon.svg.png",
+      "downloadUrl": "https://laptop-updates.brave.com/latest/winx64",
+      "filename": "brave_installer.exe",
+      "copyright": "Все права принадлежат Brave Software. Официальный сайт: https://brave.com"
+    },
+    {
+      "name": "DownloadGIMP",
+      "text": "GIMP",
+      "developer": "The GIMP Team",
+      "description": "Мощный бесплатный растровый графический редактор с открытым исходным кодом.",
+      "category": "Графика",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/120px-The_GIMP_icon_-_gnome.svg.png",
+      "downloadUrl": "https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.0-setup.exe",
+      "filename": "gimp_installer.exe",
+      "copyright": "Все права принадлежат The GIMP Team. Официальный сайт: https://www.gimp.org"
+    },
+    {
+      "name": "DownloadAudacity",
+      "text": "Audacity",
+      "developer": "Audacity Team",
+      "description": "Бесплатный многодорожечный аудиоредактор и рекордер с открытым исходным кодом.",
+      "category": "Мультимедиа",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Audacity_4_Logo.svg/250px-Audacity_4_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-64bit.exe",
+      "filename": "audacity_installer.exe",
+      "copyright": "Все права принадлежат Audacity Team. Официальный сайт: https://www.audacityteam.org"
+    },
+    {
+      "name": "DownloadTorBrowser",
+      "text": "Tor Browser",
+      "developer": "The Tor Project",
+      "description": "Браузер для анонимного доступа в интернет через сеть Tor.",
+      "category": "Безопасность, Браузеры",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tor_Browser_icon_%28New%29.png/120px-Tor_Browser_icon_%28New%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://dist.torproject.org/torbrowser/16.0/tor-browser-windows-x86_64-portable-16.0.exe",
+      "filename": "torbrowser_installer.exe",
+      "copyright": "Все права принадлежат The Tor Project. Официальный сайт: https://www.torproject.org"
+    },
+    {
+      "name": "DownloadNodeJS",
+      "text": "Node.js LTS",
+      "developer": "OpenJS Foundation",
+      "description": "Среда выполнения JavaScript на стороне сервера с открытым кодом.",
+      "category": "Разработка",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-x64.msi",
+      "filename": "nodejs_installer.msi",
+      "copyright": "Все права принадлежат OpenJS Foundation. Официальный сайт: https://nodejs.org"
+    },
+    {
+      "name": "DownloadPuTTY",
+      "text": "PuTTY",
+      "developer": "Simon Tatham",
+      "description": "Классический SSH/Telnet-клиент для Windows с открытым исходным кодом.",
+      "category": "Системные",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/PuTTY_Icon_upstream.svg/120px-PuTTY_Icon_upstream.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "downloadUrl": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.85-installer.msi",
+      "filename": "putty_installer.msi",
+      "copyright": "Все права принадлежат Simon Tatham. Официальный сайт: https://www.putty.org"
+    },
+    {
+      "name": "DownloadSpotify",
+      "text": "Spotify",
+      "developer": "Spotify AB",
+      "description": "Популярный стриминговый сервис музыки и подкастов.",
+      "category": "Мультимедиа",
+      "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/120px-Spotify_logo_without_text.svg.png",
+      "downloadUrl": "https://download.scdn.co/SpotifySetup.exe",
+      "filename": "spotify_installer.exe",
+      "copyright": "Все права принадлежат Spotify AB. Официальный сайт: https://www.spotify.com"
+    },
+    {
+      "name": "DownloadFLStudio",
+      "text": "FL Studio",
+      "developer": "Image-Line",
+      "description": "Профессиональная цифровая звуковая рабочая станция (DAW) для создания музыки, битов и аранжировок.",
+      "category": "Мультимедиа",
+      "iconUrl": "https://www.image-line.com/favicon.ico",
+      "downloadUrl": "https://support.image-line.com/redirect/flstudio_win_installer",
+      "filename": "flstudio_installer.exe",
+      "copyright": "Все права принадлежат Image-Line. Официальный сайт: https://www.image-line.com"
+    },
+    {
       "name": "DownloadCapCut",
       "text": "CapCut",
       "developer": "ByteDance",
@@ -490,8 +488,8 @@
       "downloadUrl": "https://capcut.com",
       "filename": "capcut_installer.exe",
       "copyright": "Все права принадлежат ByteDance. Официальный сайт: https://capcut.com"
-  },
-  {
+    },
+    {
       "name": "DownloadFigma",
       "text": "Figma",
       "developer": "Figma, Inc.",
@@ -501,8 +499,8 @@
       "downloadUrl": "https://figma.com",
       "filename": "Figma-setup.exe",
       "copyright": "Все права принадлежат Figma, Inc. Официальный сайт: https://figma.com"
-  },
-  {
+    },
+    {
       "name": "DownloadKeePass",
       "text": "KeePass",
       "developer": "Dominik Reichl",
@@ -512,8 +510,8 @@
       "downloadUrl": "https://sourceforge.net",
       "filename": "KeePass_setup.exe",
       "copyright": "Все права принадлежат Dominik Reichl. Официальный сайт: https://keepass.info"
-  },
-  {
+    },
+    {
       "name": "DownloadPDF24",
       "text": "PDF24 Creator",
       "developer": "geek Software GmbH",
@@ -523,8 +521,8 @@
       "downloadUrl": "https://pdf24.org",
       "filename": "pdf24_setup.exe",
       "copyright": "Все права принадлежат geek Software GmbH. Официальный сайт: https://pdf24.org"
-  },
-  {
+    },
+    {
       "name": "DownloadPowerToys",
       "text": "Microsoft PowerToys",
       "developer": "Microsoft",
@@ -534,8 +532,8 @@
       "downloadUrl": "https://github.com",
       "filename": "PowerToysSetup.exe",
       "copyright": "Все права принадлежат Microsoft. Официальный сайт: https://microsoft.com"
-  },
-  {
+    },
+    {
       "name": "DownloadEpicGames",
       "text": "Epic Games Launcher",
       "developer": "Epic Games, Inc.",
@@ -545,6 +543,6 @@
       "downloadUrl": "https://epicgames.com",
       "filename": "EpicGamesLauncherInstaller.msi",
       "copyright": "Все права принадлежат Epic Games, Inc. Официальный сайт: https://epicgames.com"
-  }
+    }
   ]
 }
