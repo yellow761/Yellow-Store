@@ -17,7 +17,7 @@
 
 ---
 
-## 🖼️ Скриншоты
+## 🖼️ Скриншоты v1.0.2
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png" width="800" alt="Главный экран">
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8.png" width="800" alt="Вкладка загрузок">
+  <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png" width="800" alt="Вкладка загрузок">
   <br>
   <i>Вкладка загрузок с прогресс-баром</i>
 </div>
@@ -46,7 +46,8 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.png" width="800" alt="Настройки">
+  <img src="https://githubusercontent.com" width="800" alt="Настройки 1">
+  <img src="https://githubusercontent.com" width="800" alt="Настройки 2">
   <br>
   <i>Настройки программы</i>
 </div>
