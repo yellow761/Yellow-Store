@@ -496,7 +496,7 @@
       "description": "Профессиональный инструмент для UI/UX-дизайнеров и проектирования интерфейсов с возможностью совместной работы в реальном времени.",
       "category": "Графика",
       "iconUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/120px-Figma-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "downloadUrl": https://www.figma.com/download/desktop/win",
+      "downloadUrl": "https://www.figma.com/download/desktop/win",
       "filename": "Figma-setup.exe",
       "copyright": "Все права принадлежат Figma, Inc. Официальный сайт: https://figma.com"
     },
