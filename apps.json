@@ -528,7 +528,7 @@
       "developer": "Microsoft",
       "description": "Набор системных утилит от Microsoft для продвинутых пользователей Windows, включающий умное управление окнами FancyZones, пипетку цвета и быстрое переименование файлов.",
       "category": "Утилиты",
-      "iconUrl": https://en.wikipedia.org/wiki/File:2020_PowerToys_Icon.svg",
+      "iconUrl": "https://en.wikipedia.org/wiki/File:2020_PowerToys_Icon.svg",
       "downloadUrl": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe",
       "filename": "PowerToysSetup.exe",
       "copyright": "Все права принадлежат Microsoft. Официальный сайт: https://microsoft.com"
