@@ -27,13 +27,6 @@
 <br>
 
 <div align="center">
-  <h3>Вкладка загрузок с прогресс-баром</h3>
-  <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png" width="800" alt="Вкладка загрузок">
-</div>
-
-<br>
-
-<div align="center">
   <h3>Процесс установки приложения</h3>
   <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.png" width="800" alt="Установка">
 </div>
