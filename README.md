@@ -34,6 +34,13 @@
 <br>
 
 <div align="center">
+  <h3>Загрузки</h3>
+  <img src="https://github.com/yellow761/Yellow-Store/blob/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%201.png" width="800" alt="Загрузки">
+</div>
+
+<br>
+
+<div align="center">
   <h3>Настройки программы</h3>
   <img src="https://github.com/yellow761/Yellow-Store/blob/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%201.png" width="800" alt="Настройки 1">
   <br><br>
