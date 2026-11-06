@@ -20,25 +20,25 @@
 ## 🖼️ Скриншоты v1.0.2
 
 <div align="center">
+  <i>Главный экран — Каталог приложений</i>
   <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png" width="800" alt="Главный экран">
   <br>
-  <i>Главный экран — Каталог приложений</i>
 </div>
 
 <br>
 
 <div align="center">
+  <i>Вкладка загрузок с прогресс-баром</i>
   <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png" width="800" alt="Вкладка загрузок">
   <br>
-  <i>Вкладка загрузок с прогресс-баром</i>
 </div>
 
 <br>
 
 <div align="center">
+  <i>Процесс установки приложения</i>
   <img src="https://raw.githubusercontent.com/yellow761/Yellow-Store/main/Screenshots/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.png" width="800" alt="Установка">
   <br>
-  <i>Процесс установки приложения</i>
 </div>
 
 <br>
@@ -46,8 +46,8 @@
 <br>
 
 <div align="center">
+  <i>Настройки программы</i>
   <img src="https://github.com/yellow761/Yellow-Store/blob/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%201.png" width="800" alt="Настройки 1">
   <img src="https://github.com/yellow761/Yellow-Store/blob/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%202.png" width="800" alt="Настройки 2">
   <br>
-  <i>Настройки программы</i>
 </div>
