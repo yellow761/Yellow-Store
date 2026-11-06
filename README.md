@@ -35,7 +35,7 @@
 
 <div align="center">
   <h3>Загрузки</h3>
-  <img src="https://github.com/yellow761/Yellow-Store/blob/main/Screenshots/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%201.png" width="800" alt="Загрузки">
+  <img src="https://github.com/yellow761/Yellow-Store/blob/40c89c1fc392a283b926a10546aa2a1a9b8a75ae/Screenshots/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8.png" width="800" alt="Загрузки">
 </div>
 
 <br>
