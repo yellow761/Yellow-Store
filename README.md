@@ -8,7 +8,7 @@
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/yellow761/Yellow-Store?style=for-the-badge&color=FFD700)](https://github.com/yellow761/Yellow-Store/releases)
   [![GitHub all releases](https://img.shields.io/github/downloads/yellow761/Yellow-Store/total?style=for-the-badge&color=FFD700)](https://github.com/yellow761/Yellow-Store/releases)
   ![GitHub](https://img.shields.io/github/license/yellow761/Yellow-Store?style=for-the-badge&color=FFD700)
-  [![Telegram](https://img.shields.io/badge/Telegram-Канал_разработчика-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yellow761_dev)
+  [![Telegram](https://img.shields.io/badge/Telegram-Канал_разработчика-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yellow761)
 
   <br>
   
