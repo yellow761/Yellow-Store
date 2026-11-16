@@ -731,8 +731,7 @@
       "description": "Бесплатное программное обеспечение с открытым исходным кодом для шифрования дисков и создания зашифрованных виртуальных томов.",
       "category": "Безопасность",
       "iconUrl": "https://en.wikipedia.org/wiki/File:VeraCrypt_Logo.svg",
-      "downloadUrl": "https://sourceforge.net/projects/veracrypt/files/latest/download
-",
+      "downloadUrl": "https://sourceforge.net/projects/veracrypt/files/latest/download",
       "filename": "VeraCrypt_Setup.exe",
       "copyright": "Все права принадлежат IDRIX. Официальный сайт: https://www.veracrypt.fr/"
     },
@@ -757,6 +756,50 @@
       "downloadUrl": "https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe",
       "filename": "DockerDesktopInstaller.exe",
       "copyright": "Все права принадлежат Docker Inc. Официальный сайт: https://www.docker.com/"
+    },
+    {
+      "name": "DownloadVSCodium",
+      "text": "VSCodium",
+      "developer": "VSCodium Community",
+      "description": "Свободная сборка редактора кода Visual Studio Code без телеметрии и проприетарных компонентов Microsoft.",
+      "category": "Разработка",
+      "iconUrl": "https://vscodium.com/img/codium_cnl.svg",
+      "downloadUrl": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodiumUserSetup-x64-1.143.17232.exe",
+      "filename": "VSCodiumSetup.exe",
+      "copyright": "Все права принадлежат VSCodium Community. Официальный сайт: https://vscodium.com/"
+    },
+    {
+      "name": "DownloadHandBrake",
+      "text": "HandBrake",
+      "developer": "HandBrake Team",
+      "description": "Бесплатный транскодер видео с открытым исходным кодом для конвертации и сжатия видеофайлов в любые форматы.",
+      "category": "Мультимедиа",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/HandBrake_Icon.png/250px-HandBrake_Icon.png",
+      "downloadUrl": "https://handbrake.fr/rotation.php?file=HandBrake-1.11.2-x86_64-Win_GUI.exe",
+      "filename": "HandBrake_setup.exe",
+      "copyright": "Все права принадлежат HandBrake Team. Официальный сайт: https://handbrake.fr/"
+    },
+    {
+      "name": "DownloadBleachBit",
+      "text": "BleachBit",
+      "developer": "Andrew Ziem",
+      "description": "Бесплатная утилита с открытым исходным кодом для глубокой очистки системы, удаления кэша и защиты приватности.",
+      "category": "Системные",
+      "iconUrl": "https://en.wikipedia.org/wiki/File:Bleachbit_logo.svg",
+      "downloadUrl": "https://download.bleachbit.org/get/BleachBit-6.0.6-setup.exe",
+      "filename": "BleachBit_setup.exe",
+      "copyright": "Все права принадлежат Andrew Ziem. Официальный сайт: https://www.bleachbit.org/"
+    },
+    {
+      "name": "DownloadObsidian",
+      "text": "Obsidian",
+      "developer": "Dynalist Inc.",
+      "description": "Мощная база знаний и редактор заметок на основе локальных Markdown-файлов с графом связей.",
+      "category": "Офис",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/250px-2023_Obsidian_logo.svg.png",
+      "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/Obsidian-1.15.1.exe",
+      "filename": "Obsidian_setup.exe",
+      "copyright": "Все права принадлежат Dynalist Inc. Официальный сайт: https://obsidian.md/"
     }
   ]
 }
