@@ -1,6 +1,6 @@
 {
   "apps": [
-    {{
+    {
       "name": "DownloadFirefox",
       "text": "Firefox",
       "developer": "Mozilla Corporation",
@@ -10,7 +10,7 @@
       "location": {
         "x": 7,
         "y": 50
-      },}}
+      },
       "size": {
         "width": 200,
         "height": 40
