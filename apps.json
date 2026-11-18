@@ -800,17 +800,6 @@
       "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/Obsidian-1.15.1.exe",
       "filename": "Obsidian_setup.exe",
       "copyright": "Все права принадлежат Dynalist Inc. Официальный сайт: https://obsidian.md/"
-    },
-    {
-      "name": "DownloadObsidian",
-      "text": "Obsidian",
-      "developer": "Dynalist Inc.",
-      "description": "Мощная база знаний и редактор заметок на основе локальных Markdown-файлов с графом связей.",
-      "category": "Офис",
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/250px-2023_Obsidian_logo.svg.png",
-      "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/Obsidian-1.15.1.exe",
-      "filename": "Obsidian_setup.exe",
-      "copyright": "Все права принадлежат Dynalist Inc. Официальный сайт: https://obsidian.md/"
     }
   ]
 }
